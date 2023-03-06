@@ -1,4 +1,5 @@
 /study_env*
 /.ipynb_checkpoints*
+/.pytest_cache*
 ./vscode*
 /housing/trained_models/forest_reg.pkl  # too heavy
